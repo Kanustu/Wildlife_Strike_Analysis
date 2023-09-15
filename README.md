@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+To use gained knowledge in Tableau to create a story
 
 ## Process
 ### (your step 1)
