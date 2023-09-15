@@ -15,3 +15,4 @@ To use gained knowledge in Tableau to create a story
 
 ## Future Goals
 (what would you do if you had more time?)
+-connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes
