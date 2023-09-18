@@ -15,12 +15,12 @@ To use gained knowledge in Tableau to create a story
 - Which states have the highest cost?
  - California, New York, Texas
 - Which animals caused the greatest damage?
- - Canada Goose has caused the most expensive collisions, even if you take out the 2009 outlier. That even though the amount strikes is relatively low, the size of the bird and size of the flock being between 30 - 100 birds, has the capap
+ - Canada Goose has caused the most expensive collisions, even if you take out the 2009 outlier. That even though the amount strikes is relatively low, the size of the bird and size of the flock being between 30 - 100 birds, has the capability to cause extensive damage.
 - What has caused the spike in strikes from 2008-2009?
 -
 ## Challenges 
 (discuss challenges you faced in the project)
-
+- deciding on removing 
 ## Future Goals
 (what would you do if you had more time?)
 -connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes
