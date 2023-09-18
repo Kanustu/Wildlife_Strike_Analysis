@@ -13,6 +13,7 @@ To use gained knowledge in Tableau to create a story
 - What caused the cost spike in 2009?
   - Miracle on the Hudson event, Jan 15th, 2009. Caused 41,000,000 in damage.
 - Which states have the highest cost?
+ - California, New York, Texas, more than likely because of the highest
 - Which animals caused the greatest damage?
 - What has caused the spike in strikes from 2008-2009?
 -
