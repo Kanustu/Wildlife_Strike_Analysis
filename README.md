@@ -20,7 +20,7 @@ To use gained knowledge in Tableau to create a story
  - speculation = After the Miracle on the Hudson event, the federal government stepped in and told the airlines to start accurately reporting the amount of strikes, to get a more complete picture of the amount of strikes and what could be done to prevent these strikes
 ## Challenges 
 (discuss challenges you faced in the project)
-- deciding on removing outlier that was drastically affecting the overall trends of the data
+- deciding on removing outlier that was drastically affecting the overall trends of the data, and doing analysis with and without the outlier for comparison
 ## Future Goals
 (what would you do if you had more time?)
 -connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes
