@@ -17,10 +17,10 @@ To use gained knowledge in Tableau to create a story
 - Which animals caused the greatest damage?
  - Canada Goose has caused the most expensive collisions, even if you take out the 2009 outlier. That even though the amount strikes is relatively low, the size of the bird and size of the flock being between 30 - 100 birds, has the capability to cause extensive damage.
 - What has caused the spike in strikes from 2008-2009?
--
+ - speculation = After the Miracle on the Hudson event, the federal government stepped in and told the airlines to start accurately reporting the amount of strikes, to get a more complete picture of the amount of strikes and what could be done to prevent these strikes
 ## Challenges 
 (discuss challenges you faced in the project)
-- deciding on removing 
+- deciding on removing outlier that was drastically affecting the overall trends of the data
 ## Future Goals
 (what would you do if you had more time?)
 -connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes
