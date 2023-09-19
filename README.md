@@ -4,7 +4,7 @@
 To use gained knowledge in Tableau to create a story
 
 ## Process
-### Creating Initial Visualisations
+### Creating Initial Visualisations and Exploratory Data Analysis
 ### Deciding On A Question
 
 ## Results
