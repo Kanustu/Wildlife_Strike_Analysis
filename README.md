@@ -5,6 +5,7 @@ To use gained knowledge in Tableau to create a story
 
 ## Process
 ### Creating Initial Visualisations and Exploratory Data Analysis
+ - used boxplot analysis to detect an extreme outlier in 2009, and was able to establish jan 15, 2009 as the single event
 ### Deciding On A Question
 
 ## Results
