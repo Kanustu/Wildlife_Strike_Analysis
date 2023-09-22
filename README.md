@@ -5,9 +5,9 @@ To use gained knowledge in Tableau to create a story
 
 ## Process
 ### Creating Initial Visualisations and Exploratory Data Analysis
- - used boxplot analysis to detect an extreme outlier in 2009, and was able to establish jan 15, 2009 as the single event
+ - used boxplot analysis to detect an extreme outlier in 2009, and was able to establish jan 15, 2009 as the single event that was causing the outlier
 ### Deciding On A Question
-
+- after originally removing the outlier, I eventually decided to instead dive into why that specific outlier existed. And to use that journey to answer multiple questions. And to end with eventually asking what this outlier can tell us about the current climate.
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
 - FAA Wildlife strike data
