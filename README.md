@@ -23,7 +23,10 @@ So from there I started creating the visualizations i would need to start to ans
 - created another butterfly chart, to compare strikes vs. total cost by species, to see which animal caused the most damage in 2009
 - created a bar chart to see which month had the highest cost in 2009
 - created a bar chart to see which day had the highest cost in January, 2009
-- created a line chart with a forecast to see the amount of strikes going beyond the data 
+- created a line chart with a forecast to see the amount of strikes going beyond the data available
+- created a line chart with a forecast to see the amount of damage caused by collisions going into 2015
+
+
 - FAA Wildlife strike data
 - What caused the cost spike in 2009?
   - Miracle on the Hudson event, Jan 15th, 2009. Caused $41,000,000 in damage.
