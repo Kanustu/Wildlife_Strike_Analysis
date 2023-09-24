@@ -1,15 +1,19 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-To use gained knowledge in Tableau to create a story
-
+Leveraging Tableau to transform data into accessible visual insights, creating dashboards for informed decision-making aligned with business inquiries, and effectively conveying these insights through appropriate visualizations.
 ## Process
-### Creating Initial Visualisations and Exploratory Data Analysis
- - used boxplot analysis to detect an extreme outlier in 2009, and was able to establish jan 15, 2009 as the single event that was causing the outlier
-### Deciding On A Question
-- after originally removing the outlier, I eventually decided to instead dive into why that specific outlier existed. And to use that journey to answer multiple questions. And to end with eventually asking what this outlier can tell us about the current climate.
+### Connect to Tableau
+Utilize Tableau to establish a connection with the FAA wildlife strike data.
+### Exploratory Data Analysis(EDA)
+Used visualizations in the process of EDA to learn as much as possible about the dataset
+### Defining Questions
+After initially excluding the outlier, I chose to delve deeper into the reasons behind its presence. I embarked on this journey to address various questions and, ultimately, to conclude by contemplating what insights this outlier might offer about the present circumstances.
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+I chose to pursue Option 2, and specifically chose the FAA wildlife strike data.
+I began by creating line plots for Total Cost by Year, Total Strikes by Year, Total Cost(Out of Comission) by Year, and Indicated Damage by Year. As well as bar charts for Cost by Species, Strikes by Species, Service Cost by Species. And histograms for Impact to Flight, Amount of Damage, Time of Day, Phase of Flight.
+These were all created for the purpose of intial data exploration.
 - FAA Wildlife strike data
 - What caused the cost spike in 2009?
   - Miracle on the Hudson event, Jan 15th, 2009. Caused $41,000,000 in damage.
