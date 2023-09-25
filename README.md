@@ -49,3 +49,4 @@ Had a hard time figuring out what angle to take on the presentation side and als
 
 ## Future Goals
 If I had more time I would want to connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes.
+
