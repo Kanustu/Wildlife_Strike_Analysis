@@ -16,51 +16,37 @@ I opted for Option 2, with a focus on the FAA wildlife strike data. My initial e
 
 After that I found that the year of 2009 was an extreme outlier compared to the rest of the years, and intially considered excluding it from the analysis but instead decided to hyper focus on that year to try and find exactly why it was on outlier and then how that knowledge could be used in the current climate.
 
-So from there I started creating the visualizations i would need to start to answer the questions i would need to ask to find out the details of what happened in 2009:
-- A colored map chart of the top three states with the highest costs in 2009, to see where most of the costs in 2009 were
-- Created a calculated field to find out the average cost per collision by state in 2009, to see which state had the highest average per collision
-- Created a butterfly chart of number of strikes and the total cost per state in 2009, to see which state has the highest costs compared to strikes
-- created another butterfly chart, to compare strikes vs. total cost by species, to see which animal caused the most damage in 2009
-- created a bar chart to see which month had the highest cost in 2009
-- created a bar chart to see which day had the highest cost in January, 2009
-- created a line chart with a forecast to see the amount of strikes going beyond the data available
-- created a line chart with a forecast to see the amount of damage caused by collisions going into 2015
+Following that, I began crafting the necessary visualizations to address the questions essential for uncovering the details of the events in 2009:
+
+- Developed a colored map chart pinpointing the top three states with the highest costs in 2009, shedding light on the primary cost centers.
+- Formulated a calculated field to determine the average cost per collision by state in 2009, pinpointing the state with the highest average cost per collision.
+- Constructed a butterfly chart comparing the number of strikes and the total cost per state in 2009, highlighting the state with the highest costs relative to the number of strikes.
+
+Having identified New York as the top state with significantly elevated costs, I proceeded to investigate which animals were responsible for the most damage and when these incidents occurred:
+
+- Produced another butterfly chart, juxtaposing strikes against total cost by species to identify the animal causing the most damage in 2009.
+- Generated a bar chart to identify the month with the highest costs in 2009.
+
+Upon pinpointing January as the month of interest, I delved deeper to identify the specific date:
+
+- Utilized a bar chart to determine the day with the highest costs in January 2009.
+  
+The answer was January 15th, 2009, famously known as 'The Miracle on the Hudson,' an incident that incurred over 40 million dollars in damages.
+
+I conducted further research into this incident, concluding that even though wildlife safety protocols have improved, complacency can set in over time. Repeating an incident like the one on January 15th, 2009, would have severe implications for operating costs and consumer trust.
+
+To gain insights into future trends regarding the number of strikes and the associated damage:
+
+- Created a line chart with a forecast to project the number of strikes beyond the available data.
+- Developed another line chart with a forecast to predict the amount of damage caused by collisions extending into 2015.
+
+While both strikes and indicated damage increased, the majority of the damage remained classified as "none." Nonetheless, maintaining vigilance in safety protocols remains a prudent course of action.
 
 
-- FAA Wildlife strike data
-- What caused the cost spike in 2009?
-  - Miracle on the Hudson event, Jan 15th, 2009. Caused $41,000,000 in damage.
-- Which states have the highest cost?
-  - California, New York, Texas
-- Which animals caused the greatest damage?
-  - Canada Goose has caused the most expensive collisions, even if you take out the 2009 outlier. That even though the amount strikes is relatively low, the size of the bird and size of the flock being between 30 - 100 birds, has the capability to cause extensive damage.
-- What has caused the spike in strikes from 2008-2009?
-  - speculation = After the Miracle on the Hudson event, the federal government stepped in and told the airlines to start accurately reporting the amount of strikes, to get a more complete picture of the amount of strikes and what could be done to prevent these strikes
-- What is the cost of Wildlife Strikes to the airline industry?
-  - Between the years of 2000 – 20015 that number is $322,160,887
-- Outliers?
-  - Yes, Jan 15th, 2009. Miracle on the Hudson event, which caused $41,000,000 in damage.
-  - Now with this event included in the data is seems to massively skew the data, so I have removed it to get a better idea of the overall picture of the cost data.
-- Which States have the highest costs?
-  - Colorado, California, Oregon, Florida.
-- What aircraft are in the costliest events?
-  - 2 engine Airplane
-- What aircraft are in the collisions that cause the most damage?
-  - 2 Engine Airplane
-- How far from the ground do most of the collisions take place?
-  - Under 500 feet, 86.7%
-- How far from the airport do the majority /of collisions happen?
-  - Within 500 feet
-- What time of day do most of the collisions take place?
-  - During the day
-- What time of day has the most costly collisions?
-  - During the day, not night, dawn or dusk
-- What animals cause the most damage?
-  - Canadian Goose
 
 ## Challenges 
 (discuss challenges you faced in the project)
-- deciding on removing outlier that was drastically affecting the overall trends of the data, and doing analysis with and without the outlier for comparison
+Had a hard time figuring out what angle to take on the presentation side.
 ## Future Goals
 (what would you do if you had more time?)
--connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes
+I would want to connect a database with the number of flights coming out of each airport, to tell which airports have the highest percentage of wildlife strikes.
