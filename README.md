@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# WildLife Strike Analysis
 
 ## Project/Goals
 Leveraging Tableau to transform data into accessible visual insights, creating dashboards for informed decision-making aligned with business inquiries, and effectively conveying these insights through appropriate visualizations.
